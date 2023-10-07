@@ -148,7 +148,7 @@ Convert a hexadecimal number to decimal.
 ### 42. Sum of Digits
 Calculate and display the sum of digits of a number.
 
-### 43. Product of Digits
+43. Product of Digits
 Calculate and display the product of digits of a number.
 
 ### 44. Palindrome Check for Numbers
